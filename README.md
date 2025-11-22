@@ -1,7 +1,7 @@
 # Translator-to-russian-layout
 Translating 1 line of text in English layout to Russian
 
-###I just got tired of translating messages in the messenger, so I put this on quick access
+### I just got tired of translating messages in the messenger, so I put this on quick access
 
 A small, focused utility that converts a single line of text typed with a Latin (QWERTY) keyboard layout into the corresponding text as if it had been typed on a Russian (Cyrillic) keyboard layout. Useful when you, or another program, accidentally typed text while the system keyboard layout was set to the wrong language.
 
